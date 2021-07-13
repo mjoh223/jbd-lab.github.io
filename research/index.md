@@ -1,98 +1,63 @@
 ---
-title: Research in the Fraser Lab
+title: Research in the JBD Lab
 layout: default
 group: research
 ---
 
 <div class="row">
-
 # Our research
-The long-term goals of our research are to understand how protein conformational ensembles are reshaped by chemical, genetic, and physical perturbations. We seek to quantify how these perturbations impact protein function and organismal fitness. We are best known for creating multitemperature X-ray data collection approaches, which are especially powerful when paired with multiconformer computational modeling to reveal otherwise inaccessible features of conformational ensembles. Our group integrates high resolution structural biology (X-ray, EM, NMR), functional studies (deep mutational scanning, enzymology), and computation to study biological mechanisms and to improve protein engineering and small molecule discovery. Group members move fluidly between computation and experiment, often inventing new methods to answer their questions.
-
-#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
+Bacteriophages (phages) are the most abundant biological entities on the planet and can be viewed as professional manipulators of their host bacteria. In our group, we study how defense mechanisms encoded by bacteria target phages and how phages co-evolve to deal with that pressure. These bacterial “immune systems,” including CRISPR-Cas and restriction enzymes, are among the many fundamental discoveries and biotechnological tools uncovered by studying phage biology. The central mission of the lab is to discover and characterize the molecular determinants that drive phage infection of bacterial hosts. We study bacterial biology through a phage lens. We use a combination of genetic, molecular and biochemical approaches to characterize the arms race between bacteria and phages, with a goal to better understand microbial ecosystems. Furthermore, we hope to make discoveries that will be influential in combatting infectious disease through phage therapy and in developing novel biotechnologies.
 <br>
 <br>
-
 </div>
 
+### Phage-encoded anti-CRISPRs
 <div class="row">
+<div class="col-md-6 order-md-1">
+The battle between bacteria and phages has led to the evolution of multiple phage resistance mechanisms such as CRISPR-Cas and subsequent counter-resistance mechanisms employed by the phage. While a graduate student in Alan Davidson’s lab, Joe discovered and characterized the first examples of phage-encoded proteins that inhibit CRISPR function, called anti-CRISPRs. These diverse proteins directly bind to and antagonize different CRISPR associated proteins, thus blocking phage targeting. We have focused more recently on understanding how anti-CRISPR proteins are deployed and regulated during phage infection. Additionally, we are interested in understanding why there are so many distinct anti-CRISPRs in closely related phages and what the costs and benefits are to possessing different ones. Finally, we have pioneered new methods for discovery of anti-CRISPR proteins that inhibit CRISPR-Cas9 and Cas12 using bioinformatics and experimentation. In addition to providing valuable new tools for the gene editing community, these discoveries pave the way to understanding why and when CRISPR-Cas fails in nature.
+</div>
+<div class="col-md-6 order-md-2 align-self-center">
+<img class="img-fluid" src="/static/img/pub/acr_review.jpg">
+<!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
+</div>
+</div>
 
-### Identifying hidden alternative conformations of proteins and ligands in biophysical data
+### CRISPR-Cas regulation
+<div class="row">
+<div class="col-md-9 order-md-2 ">
+The early findings that a CRISPR array and the associated Cas genes could be transferred into a heterologous bacterial system and still be functional told us that, in general, these systems are autonomous. Further, with the successful transfer of some CRISPR-Cas systems into human cells and animals, it is quite clear that we understand the basic requirements for CRISPR function. What is poorly understood, however, is how CRISPR-Cas systems are regulated in their native hosts. What are the physiological cues that bacteria receive that can control CRISPR expression? We extensively use Pseudomonas aeruginosa as a model system for Type I CRISPR-Cas systems, but we know nothing about how the factors that control these systems are expressed. This is an especially intriguing question due to a rich literature describing P. aeruginosa possessing more regulatory systems than most bacteria, presumably to equip it for its ‘generalist’ lifestyle, being both a ubiquitous microbe in the environment and a highly drug resistant opportunistic human pathogen. We have identified CRISPR regulatory pathways that inversely controls alginate, a common biofilm polysaccharide. This suggests that surface lifestyle controls CRISPR-Cas expression. We also identified a pirated CRISPR-Cas repressor protein that is encoded by phages and other mobile elements.
+</div>
+<div class="col-md-3 order-md-1 align-self-center">
+<img class="img-fluid" src="/static/img/pub/Alginate_regulators.jpg">
+</div>
+</div>
 
+### CRISPR-Cas3 genome editing in microbes and phages
+<div class="row">
 <div class="col-md-7 order-md-1">
-
-We study proteins as conformational ensembles.
-Although X-ray crystallography is an ensemble experiment, the results are typically summarized with a single static structure.
-We develop [**software**](https://github.com/ExcitedStates/qfit-3.0) to discover the structural ensembles present in the crystal (or on the EM grid).
-The ensemble nature of proteins highlighted by this work feeds into all of our mechanistic studies that interpret the functional effects of mutations, that characterize designed and artificially-evolved proteins, or that seek to modulate protein function with small molecules.
-These methods development efforts are central to discovering new allosteric ligands, through high throughput crystallographic fragment screening efforts.
-We are expanding, this direction to include modeling and validating protein structural data generated by cryo-electron microscopy (using EMRinger and ensemble modeling) and through integrative approaches to discover cryptic ligand binding sites.
-These methods development efforts are central to discovering new allosteric ligands, through high throughput crystallographic fragment screening efforts.
-
+CRISPR-Cas systems were functionally characterized just 13 years ago as bacterial immune systems that target bacteriophages. Since then, there has been an explosion of interest in this system for its widespread presence in the microbial world as well as its facile programmability. This has formed the basis of a revolutionary and Nobel prize winning gene editing technique, CRISPR-Cas9. However, Cas3 enzymes are natural effectors for Type I CRISPR-Cas system that harness the benefit of programmability, with the upside or large genomic deletions. We have harnessed the Type I CRISPR-Cas3 effector for making large deletions in bacterial genomes, with specified (via homology directed repair) or unspecific boundaries. We are using this technology to support other discovery efforts in the lab and working on new applications for Cas3. We are also applying this enzyme and others to phage engineering efforts, in the hopes of making it possible to enable genetic tractability for any phage.
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
-<!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
+<img class="img-fluid" src="/static/img/pub/Cas3_tech.jpg">
+</div>
+</div>
 
-</div>
-</div>
+### Bacterial pan-immunity
 <div class="row">
-
-### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
-
-<div class="col-md-7 order-md-2">
-
-We recognized that the standard practice of cryocooling crystals could distort protein conformations.
-In both larger surveys and isolated mechanistic studies, we have demonstrated the value of room temperature data collection for revealing the structural basis of protein conformational dynamics, leading to new insights into enzymes, and increasing connections to dynamics studies from NMR and simulations.
-Additionally, we have identified how temperature can bias small molecule discovery, leading some fragment sites inaccessible at cryogenic temperatures and repositioning critical water molecules.
+<div class="col-md-6 order-md-2">
+Historically, we have been focused on studying CRISPR-Cas systems in their natural settings, specifically understanding how these systems are regulated and inhibited/evaded by phages. More recently, we have undertaken efforts to study other bacterial immune systems that block phage replication, to better understand their mechanisms and importance for microbial and phage biology. We are focusing on endogenous immune function in our two favorite model human pathogens Pseudomonas aeruginosa and Listeria monocytogenes.
 </div>
-
-<div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
+<div class="col-md-6 order-md-1 align-self-center ">
+<img class="img-fluid" src="/static/img/pub/Erin_immune_systems.jpg">
 </div>
 </div>
+
+### Phage "nucleus-like" structure
 <div class="row">
-
-### Determining structures that influence microbial-host interactions
-
-<div class="col-md-7 order-md-1 ">
-
-We are interested in the structural enzymology and potential therapeutic applications of the human enzymes that degrade chitin, the pervasive polymer that can cause inflammation in the context of allergy and asthma. Using high resolution cryo-electron microscopy (cryo-EM), we are studying the mechanisms of action to newly synthesized antibiotics (in collaboration with the [Seiple](https://seiplegroup.ucsf.edu/) and [Fujimori](https://fujimorilab.ucsf.edu) labs). With this platform, we are also pushing on cryo-EM data processing and refinement methods to enable structure-based drug design, now achieving resolutions better than 2.0 Å. With the improved molecules we generate, we are defining potential resistance mechanisms to these antibiotics using a combination of structural biology and deep mutational scanning experiments. In recent work, we are collaborating with the Bondy-Denomy lab to define the structural basis of anti-CRISPR proteins using a combination of X-ray crystallography, cryo-EM, and NMR. The mechanism of action for many of these proteins remains mysterious.
+<div class="col-md-6 order-md-2 align-self-center">
+<img class="img-fluid" src="/static/img/pub/PhiKZ_summary.jpg">
 </div>
-
-<div class="col-md-3 order-md-2 align-self-center">
-
-<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
-</div>
-</div>
-<div class="row">
-
-### Identifying unifying concepts between systems and structural biology
-
-<div class="col-md-7 order-md-2">
-
-
-We are intrigued by the similarities in genetic epistasis and thermodynamic measurements and are applying these insights to large-scale studies of point mutants and posttranslational modifications. We attempt to connect the response to genetic (mutation), chemical (ligands), and physical (temperature) in experiments to define the basis of allosteric regulation and function. We like to bring an evolutionary biology perspective to the table to understand the relative importance of these different perturbations in shaping the proteins we see today.
-</div>
-
-<div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
-</div>
-</div>
-<div class="row">
-
-### Creating new time-resolved experiments to probe correlated motions in proteins
-
-<div class="col-md-7 order-md-1">
-
-A major limitation of most biophysical techniques is the inability to directly reveal correlations in motions between distinct regions of macromolecules.
-We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
-At equilibrium, X-ray diffuse scattering has the potential to reveal these motions; however, we currently lack the ability to collect, integrate, and refine diffuse scattering data.
-Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
-</div>
-
-<div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
-</div>
+<div class="col-md-6 order-md-1">
+Recent screening efforts in our lab have identified lytic jumbo phages that infect Pseudomonas aeruginosa and are resistant to CRISPR-Cas and restriction enzyme targeting. These phages assemble a remarkable proteinaceous nucleus-like structure during infection, which we have shown is causal for immune evasion. Other phage families also show CRISPR evasion phenotypes, which we are characterizing further. Jumbo phages from the phiKZ family are naturally able to evade destruction by all DNA-targeting immune systems, suggesting that the phage genome doesn’t get exposed to cytoplasmic enzymes from the start of infection, to the end. We are currently focused on dissecting the early events after infection that enable resistance to immune systems and discovering new mechanisms by which Pseudomonas aeruginosa fights back against this phage. As a potent killer of P. aeruginosa, this phage is a strong candidate for phage therapy and is being heavily studied by many labs with this focus. We hope to provide basic molecular insights and phage engineering tools to help this cause.
 
 </div>

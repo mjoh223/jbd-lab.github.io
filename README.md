@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# jbd-lab.github.io
 ====================
 
 Technologies this website uses:  
