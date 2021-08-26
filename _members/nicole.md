@@ -1,7 +1,7 @@
 ---
 name: Nicole Marino, Ph.D.
 startdate: 2017-01-01
-enddate: YYYY-MM-DD
+#enddate: YYYY-MM-DD
 #image: /static/img/members/joe.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
 position: Postdoctoral Fellow

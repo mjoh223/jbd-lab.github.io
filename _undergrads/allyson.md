@@ -2,18 +2,18 @@
 name: Allyson Park
 startdate: 2019-01-01
 enddate: 2020-01-01
-image:
-altimage:
+#image:
+#altimage:
 position: Undergraduate Intern
 #subsequent: Graduate Student @ Scripps
-pronouns: She/her/hers
+pronouns: she/her/hers
 #email: mbenzeno001@gmail.com
-scholar:
-website:
-UCSF:
-twitter:
-linkedin:
-github:
-orcid:
-description:
+scholar: XiTl6Y0AAAAJ
+#website:
+#UCSF:
+twitter: allysonparkk
+linkedin: allyson-park-7a7738153
+#github:
+#orcid:
+#description:
 ---

@@ -9,12 +9,12 @@ position: Postdoctoral Fellow
 pronouns: He/him/his
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
 #scholar: Y-iVTvMAAAAJ
-#website:
+website: https://srmap.edu.in/faculty/sutharsan-govindarajan/
 #UCSF: joseph.bondy-denomy
 #twitter: joeBondyDenomy
 #linkedin: joe-bondy-denomy-6ab87465
 #github: fraserlab
-#orcid: 0000-0002-5080-2859
+orcid: 0000-0002-4080-8501
 subsequent: "Assistant Profession – [SRM University](https://srmap.edu.in/) @ Amaravati, India
 [Faculty Profile](https://srmap.edu.in/faculty/sutharsan-govindarajan/)"
 ---

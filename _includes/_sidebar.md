@@ -6,13 +6,15 @@ title: Contact
 ### Contact the JBD Lab
 
 Joe Bondy-Denomy, Ph.D.
-Assistant Professor
-Department of Microbiology & Immunology
+Associate Professor
+Department of Microbiology and Immunology
+School of Medicine
+University of California, San Francisco
 
-email: joseph.bondy-denomy (#!) ucsf.edu
-tel: 415 514 138 one
+email: joseph.bondy-denomy (at) ucsf.edu
 
-Genentech Hall Room N372E
-UCSF Mail Code 2200
+Genentech Hall
+Room N372E (Office), N374 (Lab)
+UCSF Mail Code/Box 2200
 600 16th Street
-San Francisco, CA 94158
+San Francisco, CA 94143

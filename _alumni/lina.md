@@ -8,11 +8,11 @@ position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: She/her/hers
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
-#scholar: Y-iVTvMAAAAJ
+scholar: LBoBPRAAAAAJ
 #website:
 #UCSF: joseph.bondy-denomy
-#twitter: joeBondyDenomy
-#linkedin: joe-bondy-denomy-6ab87465
+twitter: LinaMLion
+linkedin: lina-leon-b37a7093
 #github: fraserlab
 #orcid: 0000-0002-5080-2859
 subsequent: "[Andes Agriculture](https://www.andesag.com/) @ Emeryville, CA"
