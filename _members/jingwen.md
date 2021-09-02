@@ -1,5 +1,5 @@
 ---
-name: Jingwen Guan
+name: Jingwen Guan, Ph.D.
 startdate: 2020-01-01
 enddate: YYYY-MM-DD
 #image: /static/img/members/joe.jpg

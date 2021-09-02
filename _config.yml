@@ -1,7 +1,7 @@
 name: "JBD Lab"
 description: "This is the official web page for the Bondy-Denomy Lab at UCSF."
 
-url: "http://fraserlab.com"
+url: "https://bondydenomylab.ucsf.edu"
 
 paginate: 5
 plugins: [jekyll-paginate]
