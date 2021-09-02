@@ -2,19 +2,18 @@
 name: Jenny Zhang
 startdate: 2015-01-01
 enddate: 2019-01-01
-image:
-altimage:
+#image:
+#altimage:
 position: Undergraduate Intern
-subsequent:
-pronouns: She/her/hers
-#email: sophia.staggers17@gmail.com
-scholar:
-website:
-UCSF:
-twitter:
-linkedin: sophia-staggers-07b0851b3
-github:
-orcid:
-description:
 subsequent: "Graduate Student – [Johnson Lab @ UCSF](http://www.johnsonlab.ucsf.edu)"
+pronouns: she/her/hers
+#email: sophia.staggers17@gmail.com
+#scholar:
+#website:
+#UCSF:
+twitter: jenzyy_97
+linkedin: jenny-zhang-768569181
+#github:
+orcid: 0000-0003-1352-8018
+#description:
 ---

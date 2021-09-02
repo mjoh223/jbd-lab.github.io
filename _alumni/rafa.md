@@ -8,12 +8,12 @@ position: Visiting Graduate Student
 #current:
 pronouns: He/him/his
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
-#scholar: Y-iVTvMAAAAJ
+scholar: qMazM5wAAAAJ
 #website:
 #UCSF: joseph.bondy-denomy
-#twitter: joeBondyDenomy
+twitter: rafapinila92
 #linkedin: joe-bondy-denomy-6ab87465
 #github: fraserlab
-#orcid: 0000-0002-5080-2859
-subsequent: ""
+orcid: 0000-0003-3521-460X
+subsequent: "Graduate Student"
 ---

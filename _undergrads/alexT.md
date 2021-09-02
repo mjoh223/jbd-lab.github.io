@@ -1,19 +1,19 @@
 ---
 name: Alexander Talaie
 startdate: 2021-01-01
-enddate:
-image:
-altimage:
+#enddate:
+#image:
+#altimage:
 position: Undergraduate Intern
-subsequent:
-pronouns: He/him/his
+#subsequent:
+pronouns: he/him/his
 #email: angelikamicolearada@gmail.com
-scholar:
-website:
-UCSF:
-twitter:
+#scholar:
+#website:
+#UCSF:
+#twitter:
 linkedin: alexandertalaie
-github:
-orcid:
-description:
+#github:
+#orcid:
+#description:
 ---

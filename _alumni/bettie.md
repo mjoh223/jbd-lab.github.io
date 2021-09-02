@@ -8,11 +8,11 @@ position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: She/her/hers
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
-#scholar: Y-iVTvMAAAAJ
+scholar: D-bx33cAAAAJ
 #website:
 #UCSF: joseph.bondy-denomy
-#twitter: joeBondyDenomy
-#linkedin: joe-bondy-denomy-6ab87465
+twitter: osuna_bettie
+linkedin: beatriz-bettie-osuna-72a051193
 #github: fraserlab
 #orcid: 0000-0002-5080-2859
 subsequent: "Scientist – [Octant](https://www.octant.bio/) @ Emeryville, CA"

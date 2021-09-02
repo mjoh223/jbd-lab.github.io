@@ -1,19 +1,19 @@
 ---
 name: Ry Young
-#startdate: 2018-01-01
-#enddate: 2019-01-01
+startdate: 2016-01-01
+enddate: 2017-01-01
 #image: /static/img/members/joe.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
-#position: Visiting Graduate Student
+position: Sabbatical Visitor
 #current:
 #pronouns: He/him/his
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
-#scholar: Y-iVTvMAAAAJ
-#website:
+scholar: Y-iVTvMAAAAJ
+website: https://bcbp.tamu.edu/research/faculty/ry-young/
 #UCSF: joseph.bondy-denomy
 #twitter: joeBondyDenomy
-#linkedin: joe-bondy-denomy-6ab87465
+linkedin: ryyoungiii
 #github: fraserlab
-#orcid: 0000-0002-5080-2859
-#subsequent: ""
+orcid: 0000-0001-8001-2914
+subsequent: "Director, [Center for Phage Technology](https://cpt.tamu.edu/) and Sadie Hatfield Professor, [Department of Biochemistry and Physics](https://bcbp.tamu.edu/) – Texas A&M @ College Station, Texas"
 ---

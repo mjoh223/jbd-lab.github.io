@@ -1,7 +1,7 @@
 ---
 name: Jingwen Guan, Ph.D.
 startdate: 2020-01-01
-enddate: YYYY-MM-DD
+#enddate: YYYY-MM-DD
 #image: /static/img/members/joe.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
 position: Postdoctoral Fellow

@@ -15,5 +15,5 @@ pronouns: he/him/his
 #linkedin: joe-bondy-denomy-6ab87465
 #github: fraserlab
 #orcid: 0000-0002-5080-2859
-subsequent: "Graduate Student @ New York University "
+subsequent: "Graduate Student @ New York University"
 ---

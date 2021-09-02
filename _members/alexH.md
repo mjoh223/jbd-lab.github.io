@@ -1,7 +1,7 @@
 ---
 name: Alex Hong
 startdate: 2021-01-01
-enddate: YYYY-MM-DD
+#enddate: YYYY-MM-DD
 #image: /static/img/members/joe.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
@@ -9,7 +9,7 @@ position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 pronouns: He/him/his
 email: 	alex.hong (at) UCSF.edu
 scholar: NJKcqOcAAAAJ
-website:
+#website:
 #twitter: erinhuiting
 linkedin: alex-hong-56b0001b3
 #github: fraserlab

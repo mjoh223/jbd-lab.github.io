@@ -11,9 +11,9 @@ pronouns: She/her/hers
 #scholar: Y-iVTvMAAAAJ
 #website:
 #UCSF: joseph.bondy-denomy
-#twitter: joeBondyDenomy
-#linkedin: joe-bondy-denomy-6ab87465
+twitter: carollmadhendra
+linkedin: caroline-mahendra
 #github: fraserlab
-#orcid: 0000-0002-5080-2859
-subsequent: "Product Manager – [Nalagenetics](https://www.nalagenetics.com/#/) @ Jakarta, Indonesia "
+orcid: 0000-0002-5893-1305
+subsequent: "Product Manager – [Nalagenetics](https://www.nalagenetics.com/#/) @ Jakarta, Indonesia"
 ---

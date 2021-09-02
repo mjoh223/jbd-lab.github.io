@@ -8,12 +8,12 @@ position: Graduate Student, [Biomedical Sciences](https://bms.ucsf.edu/)
 #current:
 pronouns: She/her/hers
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
-#scholar: Y-iVTvMAAAAJ
-#website:
+scholar: CiwSwLwAAAAJ
+website: https://www.adair-borges.com/
 #UCSF: joseph.bondy-denomy
-#twitter: joeBondyDenomy
+twitter: AdairLBorges
 #linkedin: joe-bondy-denomy-6ab87465
 #github: fraserlab
-#orcid: 0000-0002-5080-2859
+orcid: 0000-0002-1477-7908
 subsequent: "Millar Postdoctoral Fellow – [Banfield Lab @ UC Berkeley](https://nanogeoscience.berkeley.edu/)"
 ---

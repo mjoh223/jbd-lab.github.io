@@ -8,12 +8,12 @@ position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: They/them/theirs
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
-#scholar: Y-iVTvMAAAAJ
+scholar: 8PQQVcgAAAAJ
 #website:
 #UCSF: joseph.bondy-denomy
-#twitter: joeBondyDenomy
+twitter: SenenDM
 #linkedin: joe-bondy-denomy-6ab87465
 #github: fraserlab
-#orcid: 0000-0002-5080-2859
+orcid: 0000-0001-8852-4148
 subsequent: "Postdoctoral Fellow – [Laub Lab @ MIT](https://www.laublab.mit.edu/)"
 ---

@@ -1,7 +1,7 @@
 ---
 name: Claire Kokontis
 startdate: 2021-01-01
-enddate: YYYY-MM-DD
+#enddate: YYYY-MM-DD
 #image: /static/img/members/joe.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)

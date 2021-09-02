@@ -8,12 +8,12 @@ position: Junior Specialist – Joint with Fraser Lab
 #current:
 pronouns: She/her/hers
 #email: 	Joseph.Bondy-Denomy (at) UCSF.edu
-#scholar: Y-iVTvMAAAAJ
+scholar: 8fQ9bpIAAAAJ
 #website:
 #UCSF: joseph.bondy-denomy
-#twitter: joeBondyDenomy
-#linkedin: joe-bondy-denomy-6ab87465
+twitter: leahtangroe
+linkedin: leahroe
 #github: fraserlab
-#orcid: 0000-0002-5080-2859
+orcid: 0000-0002-2487-5587
 subsequent: "Graduate Student – [Schepartz Lab @ UC Berkeley](https://schepartzlab.com/)"
 ---
