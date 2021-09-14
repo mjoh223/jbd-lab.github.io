@@ -6,7 +6,7 @@ enddate: 2019-01-01
 #altimage:
 position: Undergraduate Intern
 subsequent: "Graduate Student – [Johnson Lab @ UCSF](http://www.johnsonlab.ucsf.edu)"
-pronouns: she/her/hers
+pronouns: She/her/hers
 #email: sophia.staggers17@gmail.com
 #scholar:
 #website:

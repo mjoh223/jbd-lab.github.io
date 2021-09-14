@@ -6,7 +6,7 @@ startdate: 2020-01-01
 #altimage:
 position: Undergraduate Computational Intern
 #subsequent:
-pronouns: she/her/hers
+pronouns: She/her/hers
 #email:
 #scholar:
 #website:

@@ -1,18 +1,18 @@
 ---
-name: Alexander Talaie
+name: Surabhi Hareendranath
 startdate: 2021-01-01
 #enddate:
-image: /static/img/members/Alexander.jpg
-altimage: /static/img/members/Alexander mask.jpg
+image: /static/img/members/Surabhi.jpg
+altimage: /static/img/members/Surabhi mask.jpg
 position: Undergraduate Intern
 #subsequent:
-pronouns: He/him/his
+pronouns: She/her/hers
 #email: angelikamicolearada@gmail.com
 #scholar:
 #website:
 #UCSF:
 #twitter:
-linkedin: alexandertalaie
+linkedin: surabhi-hareendranath-398a56149
 #github:
 #orcid:
 #description:
