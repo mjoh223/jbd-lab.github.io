@@ -6,7 +6,7 @@ pub_date: '2020-11-06'
 image: '/static/img/pub/20201106_joe.png'
 pmid: '33159058'
 pmcid: 'PMC7648647'
-pdf: 'https://bondydenomylab.ucsf.edu/sites/bondydenomylab.ucsf.edu/files/Pinilla-Redondo%202020.pdf'
+pdf: '/static/pdf/publications/pinilla-redondo_2020.pdf'
 #links:
 #- name: Davidson lab @ University of Toronto
 #  url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
