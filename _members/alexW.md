@@ -2,8 +2,8 @@
 name: Alex Wirganowicz
 startdate: 2020-01-01
 #enddate: YYYY-MM-DD
-#image: /static/img/members/joe.jpg
-#altimage: /static/img/members/Fraser_pb.jpg
+image: /static/img/members/Alex.jpg
+altimage: /static/img/members/Alex mask.jpg
 position: Junior Specialist
 #current:
 pronouns: He/him/his
