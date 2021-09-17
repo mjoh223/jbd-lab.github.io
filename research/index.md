@@ -34,7 +34,7 @@ The early findings that a CRISPR array and the associated Cas genes could be tra
 </div>
 </div>
 <div class="col-md-3 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/borges_2020">
+<img class="img-fluid" src="/static/img/pub/borges_2020.png">
 </div>
 </div>
 
@@ -46,7 +46,7 @@ CRISPR-Cas systems were functionally characterized just 13 years ago as bacteria
 </div>
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/csorgo_2020">
+<img class="img-fluid" src="/static/img/pub/csorgo_2020.png">
 </div>
 </div>
 
