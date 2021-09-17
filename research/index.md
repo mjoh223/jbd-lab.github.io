@@ -21,7 +21,7 @@ The battle between bacteria and phages has led to the evolution of multiple phag
 </div>
 </div>
 <div class="col-md-6 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/acr_review.jpg">
+<img class="img-fluid" src="/static/img/pub/marino_2020.png">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 </div>
 </div>
@@ -34,7 +34,7 @@ The early findings that a CRISPR array and the associated Cas genes could be tra
 </div>
 </div>
 <div class="col-md-3 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/Alginate_regulators.jpg">
+<img class="img-fluid" src="/static/img/pub/borges_2020">
 </div>
 </div>
 
@@ -46,7 +46,7 @@ CRISPR-Cas systems were functionally characterized just 13 years ago as bacteria
 </div>
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/Cas3_tech.jpg">
+<img class="img-fluid" src="/static/img/pub/csorgo_2020">
 </div>
 </div>
 
@@ -58,14 +58,14 @@ Historically, we have been focused on studying CRISPR-Cas systems in their natur
 </div>
 </div>
 <div class="col-md-6 order-md-1 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/Erin_immune_systems.jpg">
+<img class="img-fluid" src="/static/img/pub/huiting_2021.png">
 </div>
 </div>
 
 ### Phage "nucleus-like" structure
 <div class="row">
 <div class="col-md-6 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/PhiKZ_summary.jpg">
+<img class="img-fluid" src="/static/img/pub/guan_2020.png">
 </div>
 <div class="col-md-6 order-md-1">
 <div align="justify">

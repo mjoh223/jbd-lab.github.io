@@ -3,7 +3,7 @@ name: Erin Huiting
 startdate: 2020-01-01
 #enddate: YYYY-MM-DD
 image: /static/img/members/Erin.jpg
-altimage: /static/img/members/Erin_m.jpg
+altimage: /static/img/members/Erin mask.jpg
 position: Graduate Student, [Biomedical Sciences](https://bms.ucsf.edu/)
 #current:
 pronouns: She/her/hers

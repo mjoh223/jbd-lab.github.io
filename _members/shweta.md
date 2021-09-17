@@ -3,7 +3,7 @@ name: Shweta Karambelkar, Ph.D.
 startdate: 2018-01-01
 #enddate: YYYY-MM-DD
 image: /static/img/members/Shweta.jpg
-altimage: /static/img/members/Shweta_m.jpg
+altimage: /static/img/members/Shweta mask.jpg
 position: Postdoctoral Fellow
 #current:
 pronouns: She/her/hers

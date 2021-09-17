@@ -2,8 +2,8 @@
 name: Héloïse Carion
 startdate: 2021-01-01
 #enddate: YYYY-MM-DD
-#image: /static/img/members/joe.jpg
-#altimage: /static/img/members/Fraser_pb.jpg
+image: /static/img/members/Heloise.jpg
+altimage: /static/img/members/Heloise mask.jpg
 position: Junior Specialist
 #current:
 pronouns: She/her/hers

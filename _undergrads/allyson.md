@@ -6,7 +6,7 @@ enddate: 2020-01-01
 #altimage:
 position: Undergraduate Intern
 #subsequent: Graduate Student @ Scripps
-pronouns: she/her/hers
+pronouns: She/her/hers
 #email: mbenzeno001@gmail.com
 scholar: XiTl6Y0AAAAJ
 #website:
