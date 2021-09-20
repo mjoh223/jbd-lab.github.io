@@ -1,6 +1,6 @@
 ---
 title: "A unified resource for tracking anti-CRISPR names"
-authors: "**Bondy-Denomy J**, Davidson AR, Doudna JA, Fineran PC, Maxwell KL, Moineau S, Peng X, Sontheimer EJ, Wiedenheft B"
+authors: "**Bondy-Denomy J**, Davidson AR, Doudna JA, Fineran PC, Maxwell KL, Moineau S, Peng X, Sontheimer EJ, Wiedenheft B."
 journal: 'The CRISPR Journal'
 pub_date: '2018-10-01'
 #image: '/static/img/pub/lina_IC_acrs.png'

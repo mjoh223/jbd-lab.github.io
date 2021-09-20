@@ -1,6 +1,6 @@
 ---
 title: "Quorum sensing controls the Pseudomonas aeruginosa CRISPR-Cas adaptive immune system"
-authors: "Høyland-Kroghsbo NM, Paczkowski J, Mukherjee S, Broniewski J, Westra E, **Bondy-Denomy J**, Bassler BL"
+authors: "Høyland-Kroghsbo NM, Paczkowski J, Mukherjee S, Broniewski J, Westra E, **Bondy-Denomy J.**, Bassler BL"
 journal: 'PNAS'
 pub_date: '2016-11-14'
 #image: '/static/img/pub/lina_IC_acrs.png'

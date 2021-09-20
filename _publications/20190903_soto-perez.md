@@ -1,6 +1,6 @@
 ---
 title: "CRISPR-Cas system of a prevalent human gut bacterium reveals hyper-targeting against phages in a human virome catalog"
-authors: "Soto-Perez P, Bisanz JE, **Berry JD**, Lam KN, **Bondy-Denomy J**, Turnbaugh PJ"
+authors: "Soto-Perez P, Bisanz JE, **Berry JD**, Lam KN, **Bondy-Denomy J**, Turnbaugh PJ."
 journal: 'Cell Host & Microbe'
 pub_date: '2019-09-03'
 #image: '/static/img/pub/lina_IC_acrs.png'

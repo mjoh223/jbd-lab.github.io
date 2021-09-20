@@ -1,6 +1,6 @@
 ---
 title: "Bacteriophage genes that inactivate the CRISPR/Cas bacterial immune system"
-authors: "**Bondy-Denomy J**, Pawluk A, Maxwell KL, Davidson AR"
+authors: "**Bondy-Denomy J**, Pawluk A, Maxwell KL, Davidson AR."
 journal: 'Nature'
 pub_date: '2013-01-17'
 #image: '/static/img/pub/lina_IC_acrs.png'

@@ -1,6 +1,6 @@
 ---
 title: "Prophages mediate defense against phage infection through diverse mechanisms"
-authors: "**Bondy-Denomy J**, Qian J, Westra ER, Buckling A, Guttman DS, Davidson AR, Maxwell KL"
+authors: "**Bondy-Denomy J**, Qian J, Westra ER, Buckling A, Guttman DS, Davidson AR, Maxwell KL."
 journal: 'The ISME Journal'
 pub_date: '2016-06-03'
 #image: '/static/img/pub/lina_IC_acrs.png'

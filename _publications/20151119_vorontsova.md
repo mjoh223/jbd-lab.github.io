@@ -1,6 +1,6 @@
 ---
 title: "Foreign DNA acquisition by the I-F CRISPR-Cas system requires all components of the interference machinery"
-authors: "Vorontsova D, Datsenko KA, Medvedeva S, **Bondy-Denomy J**, Savitskaya EE, Pougach K, Logacheva M, Wiedenheft B, Davidson AR, Severinov K, Semenova E"
+authors: "Vorontsova D, Datsenko KA, Medvedeva S, **Bondy-Denomy J**, Savitskaya EE, Pougach K, Logacheva M, Wiedenheft B, Davidson AR, Severinov K, Semenova E."
 journal: 'Nucleic Acids Research'
 pub_date: '2015-11-19'
 #image: '/static/img/pub/lina_IC_acrs.png'

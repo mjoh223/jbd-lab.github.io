@@ -1,6 +1,6 @@
 ---
 title: "To acquire or resist: The complex biological effects of CRISPR-Cas systems"
-authors: "**Bondy-Denomy J**, Davidson AR"
+authors: "**Bondy-Denomy J**, Davidson AR."
 journal: 'Trends in Microbiology'
 pub_date: '2014-04-01'
 #image: '/static/img/pub/lina_IC_acrs.png'

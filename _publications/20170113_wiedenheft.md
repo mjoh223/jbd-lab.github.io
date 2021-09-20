@@ -1,6 +1,6 @@
 ---
 title: "CRISPR control of virulence in Pseudomonas aeruginosa"
-authors: "Wiedenheft B, **Bondy-Denomy J**"
+authors: "Wiedenheft B, **Bondy-Denomy J.**"
 journal: 'Cell Research'
 pub_date: '2017-01-13'
 #image: '/static/img/pub/lina_IC_acrs.png'

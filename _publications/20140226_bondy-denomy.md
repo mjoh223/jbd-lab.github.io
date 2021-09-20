@@ -1,6 +1,6 @@
 ---
 title: "When a virus is not a parasite: The beneficial effects of prophages on bacterial fitness"
-authors: "**Bondy-Denomy J**, Davidson AR"
+authors: "**Bondy-Denomy J**, Davidson AR."
 journal: 'Journal of Microbiology'
 pub_date: '2014-04-01'
 #image: '/static/img/pub/lina_IC_acrs.png'

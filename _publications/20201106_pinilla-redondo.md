@@ -1,6 +1,6 @@
 ---
 title: "Discovery of multiple anti-CRISPRs highlights anti-defense gene clustering in mobile genetic elements"
-authors: "**Pinilla-Redondo R**, Shehreen S, **Marino ND**, Fagerlund ND, Brown CM, Sorensen SJ, Fineran PC, **Bondy-Denomy J**"
+authors: "**Pinilla-Redondo R**, Shehreen S, **Marino ND**, Fagerlund ND, Brown CM, Sorensen SJ, Fineran PC, **Bondy-Denomy J.**"
 journal: 'Nature Communications'
 pub_date: '2020-11-06'
 image: '/static/img/pub/pinilla-redondo_2020.png'

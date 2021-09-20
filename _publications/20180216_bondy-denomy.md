@@ -1,6 +1,6 @@
 ---
 title: "Protein inhibitors of CRISPR-Cas9"
-authors: "**Bondy-Denomy J**"
+authors: "**Bondy-Denomy J.**"
 journal: 'ACS Chemical Biology'
 pub_date: '2018-02-16'
 #image: '/static/img/pub/lina_IC_acrs.png'

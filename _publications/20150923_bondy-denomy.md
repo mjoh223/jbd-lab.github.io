@@ -1,6 +1,6 @@
 ---
 title: "Multiple mechanisms for CRISPR-Cas inhibition by anti-CRISPR proteins"
-authors: "**Bondy-Denomy J**, Garcia B, Strum S, Du M, Rollins MF, Hidalgo-Reyes Y, Wiedenheft B, Maxwell K.L., Davidson A.R"
+authors: "**Bondy-Denomy J**, Garcia B, Strum S, Du M, Rollins MF, Hidalgo-Reyes Y, Wiedenheft B, Maxwell KL, Davidson AR."
 journal: 'Nature'
 pub_date: '2015-09-23'
 #image: '/static/img/pub/lina_IC_acrs.png'
