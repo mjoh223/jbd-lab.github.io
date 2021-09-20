@@ -1,5 +1,5 @@
 ---
-title: Congrats Lina and Senén
+title: Congrats Lina and Senén!
 author: Joe Bondy-Denomy
 layout: post
 group: news
