@@ -11,7 +11,7 @@ pronouns: He/him/his #personal pronouns
 scholar: YuVZtWUAAAAJ& #Google Scholar User ID
 #website: https://website.com/
 #UCSF: XXXXXXXX #UCSF Profile ID - Employees only
-twitter: @JSAthukoralage
+twitter: JSAthukoralage
 linkedin: januka-athukoralage
 #github: username
 orcid: 0000-0002-1666-0180

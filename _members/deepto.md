@@ -11,7 +11,7 @@ email: deepto.mozumdar (at) ucsf.edu #Preferred public email address
 #scholar: XXXXXXXXXXXX #Google Scholar User ID
 #website: https://website.com/
 #UCSF: XXXXXXXX #UCSF Profile ID - Employees only
-twitter: @MozumdarDeepto
+twitter: MozumdarDeepto
 linkedin: d-moz
 #github: username
 orcid: 0000-0001-7303-8681
