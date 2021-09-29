@@ -1,5 +1,5 @@
 ---
-title: Alex Hong rotates in the lab
+title: Julia rotates in the lab
 author: Joe Bondy-Denomy
 layout: post
 group: news
