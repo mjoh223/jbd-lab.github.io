@@ -6,7 +6,9 @@ url: https://mjoh223.github.io
 baseurl: /jbd-lab.github.io/
 
 paginate: 5
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-relative-links
 paginate_path: "news/page:num"
 
 permalink: pretty

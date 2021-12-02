@@ -2,6 +2,7 @@
 title: JBD Lab Mission and Resources
 layout: default
 group: compact
+permalink: /jbd-lab.github.io/
 ---
 
 
