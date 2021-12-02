@@ -1,7 +1,9 @@
 name: "JBD Lab"
 description: "This is the official web page for the Bondy-Denomy Lab at UCSF."
 
-url: "https://mjoh223.github.io/jbd-lab.github.io/"
+domain: mjoh223.github.io
+url: https://mjoh223.github.io
+baseurl: /jbd-lab.github.io/
 
 paginate: 5
 plugins: [jekyll-paginate]
