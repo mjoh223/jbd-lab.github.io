@@ -1,32 +1,31 @@
 - name: home
-  link: "/"
+  link: "/jbd-lab.github.io"
   group: home
 
 - name: research
-  link: "/research"
+  link: "/jbd-lab.github.io/research"
   group: research
 
 - name: publications
-  link: "/publications"
+  link: "/jbd-lab.github.io/publications"
   group: publications
 
 - name: members
-  link: "/members"
+  link: "/jbd-lab.github.io/members"
   group: members
 
 - name: mission and resources
-  link: "/compact"
+  link: "/jbd-lab.github.io/compact"
   group: compact
 
 - name: news
-  link: "/news"
+  link: "/jbd-lab.github.io/news"
   group: news
 
 - name: join
-  link: "/join"
+  link: "/jbd-lab.github.io/join"
   group: join
 
 - name: contact
-  link: "/contact"
+  link: "/jbd-lab.github.io/contact"
   group: contact
-
