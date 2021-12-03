@@ -3,12 +3,11 @@ description: "This is the official web page for the Bondy-Denomy Lab at UCSF."
 
 domain: mjoh223.github.io
 url: https://mjoh223.github.io
-baseurl: /jbd-lab.github.io/
+baseurl: /jbd-lab.github.io
 
 paginate: 5
 plugins:
   - jekyll-paginate
-  - jekyll-relative-links
 paginate_path: "news/page:num"
 
 permalink: pretty
