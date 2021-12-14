@@ -8,7 +8,7 @@ position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu/)
 #current:
 pronouns: He/him/his
 email: 	alex.hong (at) UCSF.edu
-scholar: NJKcqOcAAAAJ
+scholar: OJz8Kd4AAAAJ
 #website:
 #twitter: erinhuiting
 linkedin: alex-hong-56b0001b3
